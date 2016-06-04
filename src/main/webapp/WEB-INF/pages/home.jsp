@@ -99,23 +99,23 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="./resources/images/old_guy_workout.jpg" alt="Chania" width="100%" height="150px">
+                <img src="./resources/images/header/boxersize.jpg" alt="Chania" width="100%" height="150px">
                 <div class="carousel-caption">
                     <h3>John Doe</h3>
-                    <p>John lost 2st in six weeks.</p>
+                    <p>Someone training for boxing</p>
                 </div>
             </div>
 
             <div class="item">
-                <img src="./resources/images/bloke_dumbbells.jpg" alt="Chania" width="100%" height="150px">
+                <img src="./resources/images/header/pressup.jpg" alt="Chania" width="100%" height="150px">
                 <div class="carousel-caption">
-                    <h3>Tim Nice But Dim</h3>
+                    <h3>Press-up</h3>
                     <p>Tim .</p>
                 </div>
             </div>
 
             <div class="item">
-                <img src="./resources/images/runner.jpg" alt="Flower" width="100%" height="150px">
+                <img src="./resources/images/header/squat.jpg" alt="Flower" width="100%" height="150px">
                 <div class="carousel-caption">
                     <h3>Jane Do</h3>
                     <p>Trained to take part in the London marathon</p>
@@ -123,7 +123,7 @@
             </div>
 
             <div class="item">
-                <img src="./resources/images/Sudio_workout.jpg" alt="Flower" width="100%" height="150px">
+                <img src="./resources/images/header/compilation.jpg" alt="Flower" width="100%" height="150px">
                 <div class="carousel-caption">
                     <h3>Postnatal</h3>
                     <p>The atmosphere in Chania has a touch of Florence and Venice.</p>

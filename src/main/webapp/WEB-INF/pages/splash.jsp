@@ -20,6 +20,7 @@
 
     </div><!-- /.row -->
 
+</div>
 
     <!-- START THE FEATURETTES -->
 
@@ -59,4 +60,4 @@
         </div>
     </div>
 
-    <hr class="featurette-divider">
+    <hr class="featurette-divider" >
