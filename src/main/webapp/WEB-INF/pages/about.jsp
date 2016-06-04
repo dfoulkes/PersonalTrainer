@@ -14,7 +14,7 @@
 
 <row>
     <div class="page-header about-header visible-desktop visible-tablet hidden-phone">
-        <img src="./resources/images/callum_port.JPG" class="aboutBannerLeft">
+        <img src="./resources/images/selfies/boxing-training.png" class="aboutBannerLeft">
         <img src="./resources/images/CGF_Logo_Large.jpg" class="aboutBannerRight">
     </div>
 
