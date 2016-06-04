@@ -159,12 +159,9 @@
         <div class="social">
             <ul>
                 <li><a href="https://www.facebook.com/CallumGomersallFitness/"><i class="fa fa-lg fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-lg fa-twitter"></i></a></li>
-                <%--<li><a href="#"><i class="fa fa-lg fa-google-plus"></i></a></li>--%>
+                <li><a href="https://twitter.com/CG__Fitness"><i class="fa fa-lg fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-lg fa-linkedin"></i></a></li>
-                <%--<li><a href="#"><i class="fa fa-lg fa-flickr"></i></a></li>--%>
-                <%--<li><a href="#"><i class="fa fa-lg fa-instagram"></i></a></li>--%>
-                <li><a href="#"><i class="fa fa-lg fa-youtube"></i></a></li>
+                <li><a href="https://www.youtube.com/channel/UChJbp7hZwP4VHJUeDYmYxpA"><i class="fa fa-lg fa-youtube"></i></a></li>
             </ul>
         </div>
     </footer>
