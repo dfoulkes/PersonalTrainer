@@ -2,17 +2,17 @@
     <!-- Three columns of text below the carousel -->
     <div class="row hidden-phone">
         <div class="col-lg-4">
-            <img class="img-circle" src="./resources/images/qualifacations/qualification_1.jpg" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
+            <a href="https://www.babcockinternational.com"><img href="" class="img-circle" src="./resources/images/qualifacations/babcockLogo.png" alt="Babcock International" width="140" height="140"></a>
+            <h2>Babcock International</h2>
             <p></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-            <img class="img-circle" src="./resources/images/qualifacations/qualification_2.jpg" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
+            <a href="http://www.ymcafit.org.uk"><img class="img-circle" src="./resources/images/qualifacations/ymca-logo.png" alt="YMCA Fitness" width="140" height="140"></a>
+            <h2>YMCA Fitness</h2>
             <p></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-            <img class="img-circle" src="./resources/images/qualifacations/qualification_3.jpg" alt="Generic placeholder image" width="140" height="140">
+            <a href=""><img class="img-circle" src="./resources/images/qualifacations/qualification_3.jpg" alt="Generic placeholder image" width="140" height="140"></a>
             <h2>Heading</h2>
             <p></p>
         </div>
