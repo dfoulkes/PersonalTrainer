@@ -85,7 +85,9 @@
       Example page header
    </h1>
 </div> -->
-
+    <div id="mobileHeader" class="hidden-lg">
+        <img src="./resources/images/CGF_Logo_small.jpg" width="100%">
+    </div>
     <br>
     <div id="myCarousel" class="carousel slide foreground visible-lg-block" data-ride="carousel">
         <!-- Indicators -->
