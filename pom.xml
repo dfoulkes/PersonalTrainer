@@ -3,14 +3,13 @@
     <groupId>trainer</groupId>
     <artifactId>trainer</artifactId>
     <packaging>war</packaging>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <name>trainer</name>
 
     <scm>
         <url>https://github.com/dfoulkes/PersonalTrainer</url>
         <connection>scm:git:git://github.com/dfoulkes/PersonalTrainer.git</connection>
         <developerConnection>scm:git:git@github.com:dfoulkes/PersonalTrainer.git</developerConnection>
-      <tag>1.0</tag>
   </scm>
 
     <repositories>
