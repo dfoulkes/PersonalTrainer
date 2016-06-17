@@ -1,6 +1,6 @@
 
 
-<hr class="featurette-divider">
+<hr class="featurette-divider visable-desktop hidden-tablet hidden-phone">
 
 <div class="row featurette">
     <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">

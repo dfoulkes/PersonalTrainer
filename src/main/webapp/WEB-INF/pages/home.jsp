@@ -79,14 +79,10 @@
         });
         addMonitors();
     </script>
-<!-- <div class = "page-header">
-   	<img src="./resources/images/CGF_Logo_Large.jpg" class="img-responsive">
-   <h1>
-      Example page header
-   </h1>
-</div> -->
-    <div id="mobileHeader" class="hidden-lg">
-        <img src="./resources/images/CGF_Logo_small.jpg" width="100%">
+    <div id="mobileHeader" class="hidden-desktop hidden-tablet visable-phone mobile-header">
+
+        <%--<img src="./resources/images/CGF_Logo_small.jpg" width="100%">--%>
+        <img src="./resources/images/CGF_Logo_Large.jpg" width="100%">
     </div>
     <br>
     <div id="myCarousel" class="carousel slide foreground visible-lg-block" data-ride="carousel">
@@ -144,11 +140,7 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-
-
-
 <div id="top" ng-view class="foreground">
-
 </div>
     <!-- /END THE FEATURETTES -->
 

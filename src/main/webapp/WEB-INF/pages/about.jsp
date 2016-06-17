@@ -15,12 +15,9 @@
 <row>
     <div class="page-header about-header visible-desktop visible-tablet hidden-phone">
         <img src="./resources/images/selfies/boxing-training.png" class="aboutBannerLeft">
-        <img src="./resources/images/CGF_Logo_Large.jpg" class="aboutBannerRight">
+        <img src="./resources/images/CGF_Logo_Large.jpg" class="aboutBannerRight visible-lg-block">
     </div>
 
-    <div class="page-header about-header hidden-desktop hidden-tablet visable-phone">
-        <img src="./resources/images/CGF_Logo_Large.jpg" class="mobileHeader">
-    </div>
 </row>
         <row class="row-fluid">
             <div class="span4">
