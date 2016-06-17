@@ -24,7 +24,7 @@
 
     <!-- START THE FEATURETTES -->
 
-    <hr class="featurette-divider">
+    <hr class="featurette-divider visible-lg-block">
 
     <div class="row featurette">
         <div class="col-md-7">
