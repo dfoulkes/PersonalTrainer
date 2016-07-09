@@ -18,21 +18,27 @@
     </div>
     <div class="span4 priceListBox">
         <article class="articleBody">
-            <h1 class="priceHeader">One-Off Session?</h1>
+            <h1 class="priceHeader">Initial Assessment</h1>
             <div class="pricecontent">
-                <span class="priceBulletin"> 1 hour &pound35</span>
+                <span class="priceBulletin"> FREE </span>
             </div>
         </article>
         <article class="articleBody">
-            <h1 class="priceHeader">12 Week Plan</h1>
+            <h1 class="priceHeader">30 Minutes</h1>
             <div class="pricecontent">
-                <span class="priceBulletin">&pound400</span>
+                <span class="priceBulletin">&pound15.00</span>
             </div>
         </article>
         <article class="articleBody">
-            <h1 class="priceHeader">Group Bookings</h1>
+            <h1 class="priceHeader">1 Hour</h1>
             <div class="pricecontent">
-                <span class="priceBulletin">&pound100</span>
+                <span class="priceBulletin">&pound25.00</span>
+            </div>
+        </article>
+        <article class="articleBody">
+            <h1 class="priceHeader">Buy 9 get one FREE</h1>
+            <div class="pricecontent">
+                <span class="priceBulletin">&pound225.00</span>
             </div>
         </article>
 
