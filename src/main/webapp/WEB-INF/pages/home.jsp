@@ -80,7 +80,7 @@
         });
         addMonitors();
     </script>
-    <div id="mobileHeader" class="hidden-desktop hidden-tablet visable-phone mobile-header">
+    <div id="mobileHeader" class="hidden-lg mobile-header">
 
         <%--<img src="./resources/images/CGF_Logo_small.jpg" width="100%">--%>
         <img src="./resources/images/CGF_Logo_Large.jpg" width="100%">

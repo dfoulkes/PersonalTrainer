@@ -1,6 +1,7 @@
 <div class="container marketing">
     <!-- Three columns of text below the carousel -->
-    <div class="row hidden-phone">
+
+    <div class="row visible-lg">
         <div class="col-lg-4">
             <a href="https://www.babcockinternational.com"><img href="" class="img-circle" src="./resources/images/qualifacations/babcockLogo.png" alt="Babcock International" width="140" height="140"></a>
             <h2>Babcock International</h2>
