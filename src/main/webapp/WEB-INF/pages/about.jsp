@@ -23,7 +23,7 @@
             <div class="span4">
                 <article class="articleBody">
                     <h1 class="artcileHeader">Who am I</h1>
-                    <p>I have always been passionate about keeping fit and training from a young age. I previously played for Moortown RUFC from the age of 13 up to open age and gained various awards including a selection for central Yorkshire at different age groups. I attended Allerton High School and during this time I captained both the rugby and football team throughout the years which helped me improve my leadership skills and encouraged me to motivate others around me. After 6th form at Allerton High I went on to work at Feel Good Leeds and later became the supervisor before wanting to fulfil my ambition of becoming a full time personal trainer. I qualified through babcock international and I am also Kettlbell , TRX , Boxercise and Nutrition qualified. I am always looking to continue my development to benefit not only myself but my clients too and wish to add more to the list.
+                    <p>I have always been passionate about keeping fit and training from a young age. I previously played for Moortown RUFC from the age of 13 up to open age and gained various awards including a selection for central Yorkshire at different age groups. I attended Allerton High School and during this time I captained both the rugby and football team throughout the years which helped me improve my leadership skills and encouraged me to motivate others around me. After 6th form at Allerton High I went on to work at Feel Good Leeds and later became the supervisor before wanting to fulfil my ambition of becoming a full time personal trainer.
 
                     </p>
                 </article>
