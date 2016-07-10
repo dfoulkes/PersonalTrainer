@@ -210,3 +210,8 @@ div.testimonial{
     font-size: medium;
     font-weight: 200;
 }
+
+.disclaimer{
+    text-transform: uppercase;
+    font-weight: bold;
+}
