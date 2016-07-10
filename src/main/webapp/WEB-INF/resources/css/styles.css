@@ -203,3 +203,10 @@ div.testimonial{
 .homepage-left-border{
     padding-left:3%;
 }
+
+.bmiResult{
+    padding-bottom:5%;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: medium;
+    font-weight: 200;
+}
