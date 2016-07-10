@@ -65,6 +65,20 @@
     </div>
 </div>
 
+<div class="row featurette">
+    <div class="col-md-7">
+        <h2 class="featurette-heading header-right"><b>Alysha </b><span class="text-muted">Losses 5.5 Stone for her wedding</span> I set my goals and reached them in six months.</h2>
+        <p class="lead">
+        </p>
+        <div class="testimonial">
+            <p>When I started training with Callum I was 5.5 stone heavier than I was now.  I though I was never going to be able to get to my goal weight or get through a PT session.  I was so nervous on my first session I nearly did not turn up i did not have the attitude to think i could get through this never mind go into a gym.  Less than five minuets into my session Callum made me feel totally at ease, walking through each exercise that we were going to do and showing me how to do them. Callum has a very professional attitude but you can also have a laugh while training, he’s always on hand when I text with questions or need to know anything about my training.  After loosing 5.5 stone I continue to train with Callum every week I love the gym now and love to learn how to change my body and diet its all about positive mental attitude.  !</p>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <img class="featurette-image img-responsive center-block page-image splashPageRightHandSideContent" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/beforeAfter/ba001.png" data-holder-rendered="true">
+    </div>
+</div>
+
 <hr class="featurette-divider">
 
 <div class="row featurette">
