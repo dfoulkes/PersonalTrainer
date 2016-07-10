@@ -55,7 +55,7 @@
     <a href="#contact">
     <button class="btn btn-default btn-lg span8 contactButton"
             >
-        Contact Calcum
+        Contact Callum
     </button>
     </a>
 </div>

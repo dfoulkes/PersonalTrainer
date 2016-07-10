@@ -59,7 +59,7 @@
                         <li id="homeMenu" class="active"><a id="#buttonHome" href="#home">Home</a></li>
                         <li id="aboutMenu"><a id="buttonAbout" href="#about">Meet Callum</a></li>
                         <li id="contactMenu"><a id="buttonContact" href="#contact">Contact</a></li>
-                        <li id="servicesMenu"><a id="buttonService" href="#services">Services</a></li>
+                        <li id="servicesMenu"><a id="buttonService" href="#services">Prices</a></li>
                         <li id="testimonialsMenu"><a id="buttonTestimonial" href="#testimonials">Testimonials</a></li>
                     </ul>
                 </div>
