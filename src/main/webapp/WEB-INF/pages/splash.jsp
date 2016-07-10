@@ -31,7 +31,7 @@
             <h2 class="featurette-heading">Jo Lost 2 stone in time for his wedding. <span class="text-muted">It'll blow your mind.</span></h2>
             <br />
             <p class="lead">Callum offers one to one personal training sessions, bootcamp, kickboxing and much more.</p>
-            <p class="lead">Your training plan will be structured to help you get the best out of your sessions and out of your new lifestyle. I have an excellent success rate with all of my clients that have chosen to train with me. Just take a look at my testimonials page to see some of the transformations my clients' have made.  </p>
+            <p class="lead">Your training plan will be structured to help you get the best out of your sessions and out of your new lifestyle. I have an excellent success rate with all of my clients that have chosen to train with me. Just take a look at my <a href="#testimonials">testimonials page</a> to see some of the transformations my clients' have made.  </p>
         </div>
         <div class="col-md-5">
             <img class="featurette-image img-responsive center-block page-image splashPageRightHandSideContent" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/callum_port.JPG" data-holder-rendered="true">
