@@ -17,7 +17,7 @@
         <div class="span4">
             <article class="articleBody">
                 <h1 class="artcileHeader">What is Your BMI?</h1>
-                <p>I will also take the following in your assesment:</p>
+                <p>In your assessment I will also take your measurements, height and weight to work out your BMI:</p>
 
                 <h3>BMI Calculator</h3>
                 <ul>
