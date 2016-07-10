@@ -27,10 +27,11 @@
                             <label for="weightValueStone">Weight</label><input type="number" class="form-control" ng-change="change()" ng-model="stones" id="weightValueStone" placeholder="Stone" /> <input type="number" class="form-control" ng-model="pounds" ng-change="change()" id="weightValuePounds" placeholder="Pounds" />
                         </fieldset>
                         <fieldset class="form-group">
-                            <label for="bmi">BMI</label><input class="form-control" type="number" id="bmi" ng-model="bmi" placeholder="BMI"/>
+                            <label for="bmi">BMI</label><input class="form-control" ng-readonly="true" type="number" id="bmi" ng-model="bmi" placeholder="BMI"/>
                         </fieldset>
                     </form>
                 </ul>
+
               <div class="bmiResult">
 
                     <div class="alert alert-warning text-center" id="underWeight">
@@ -45,6 +46,10 @@
                     <div class="alert alert-danger text-center" id="obese">
                         Obese
                     </div>
+                  <div>
+                      <small class="disclaimer">legal notice and disclaimer</small>
+                      <small class="legalNotice">All information contained in and produced by the BMI calculator is provided for educational purposes only. This information should not be used for the diagnosis or treatment of any health problem or disease.</small>
+                  </div>
               </div>
                 <p>Once we have gone through everything you want out of your training sessions we will do a small workout of your plan in the gym just to get you started.  Once all this is done on your first personal training session you will get your very own tailored fitness plan and food plan to follow.  After 6 weeks of training we will meet up again and review your exercises and meal plan.</p>
             </article>
