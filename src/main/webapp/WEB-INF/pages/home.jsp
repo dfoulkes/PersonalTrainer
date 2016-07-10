@@ -105,7 +105,7 @@
             </div>
 
             <div class="item">
-                <img src="./resources/images/header/pressup.jpg" alt="Chania" width="100%" height="150px">
+                <img src="./resources/images/header/banner_05.png" alt="Chania" width="100%" height="150px">
                 <div class="carousel-caption">
                     <h3>Press-up</h3>
                     <p>Tim .</p>
