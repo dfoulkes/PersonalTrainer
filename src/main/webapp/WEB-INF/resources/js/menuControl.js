@@ -6,6 +6,7 @@ function unselectAll(){
     $("#contactMenu").removeClass( "active");
     $("#servicesMenu").removeClass( "active");
     $("#testimonialsMenu").removeClass( "active");
+    $("#gettingStartedMenu").removeClass( "active");
 }
 
 function addMonitors(){
@@ -33,4 +34,10 @@ function addMonitors(){
         unselectAll();
         $("#testimonialsMenu").addClass("active");
     });
+
+    $("#gettingStartedMenu").click(function() {
+        unselectAll();
+        $("#gettingStartedMenu").addClass("active");
+    });
+
 }

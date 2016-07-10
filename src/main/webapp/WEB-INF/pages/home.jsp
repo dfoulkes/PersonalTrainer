@@ -61,6 +61,7 @@
                         <li id="contactMenu"><a id="buttonContact" href="#contact">Contact</a></li>
                         <li id="servicesMenu"><a id="buttonService" href="#services">Prices</a></li>
                         <li id="testimonialsMenu"><a id="buttonTestimonial" href="#testimonials">Testimonials</a></li>
+                        <li id="gettingStartedMenu"><a id="buttonGettingStarted" href="#gettingStarted">Getting Started</a></li>
                     </ul>
                 </div>
             </div>

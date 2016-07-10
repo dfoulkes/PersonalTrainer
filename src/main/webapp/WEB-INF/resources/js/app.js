@@ -26,6 +26,10 @@ webapp.config(function ($routeProvider) {
              templateUrl: './testimonials',
              controller: 'TestimonialsCtrl'
          })
+        .when('/gettingStarted', {
+            templateUrl: './gettingStarted',
+            controller: 'GettingStartedCtrl'
+        })
         .when('/privacy', {
             templateUrl: './privacy',
             controller: 'InfoCtrl'
