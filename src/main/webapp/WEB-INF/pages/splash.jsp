@@ -56,8 +56,18 @@
 
     <div class="row featurette">
         <div class="col-md-7 homepage-left-border">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <h2 class="featurette-heading">Start in the Right Place <span class="text-muted">Checkmate.</span></h2>
+            <p class="lead">If you are always up for a challange and love seeking new ways of getting fit then this is a training session for you.  Kettlebells are some of the most powerful tools for improving your overall fitness and body shape. With my high intensity kettlebell session you will be sure to raise that heart rate, melt the fat and build some muscle.
+                Some of the Benefits to kettlebell training:
+                <ul class="lead">
+                    <li>Flexibility</li>
+                    <li>Rapid Fat Loss</li>
+                    <li>Stronger back</li>
+                    <li>Muscular strength without the added bulk</li>
+                    <li>Increased endurance</li>
+                    <li><a href="#contact">Contact me</a> for more information or to book a session.</li>
+                </ul>
+            </p>
         </div>
         <div class="col-md-5">
             <img class="featurette-image img-responsive center-block page-image splashPageRightHandSideContent" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/pageImages/IMG_7113-1.png" data-holder-rendered="true">
