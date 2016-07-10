@@ -89,6 +89,7 @@ public class MainController {
             mailSender.send(mimeMessage);
 
         } catch (MessagingException e) {
+            LOGGER.info(e.getMessage());
             LOGGER.error("was unable to send the message");
             LOGGER.error(e.getMessage());
         }
