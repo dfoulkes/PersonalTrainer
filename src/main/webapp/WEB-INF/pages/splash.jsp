@@ -58,7 +58,7 @@
             <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-            <img class="featurette-image img-responsive center-block page-image splashPageRightHandSideContent" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/selfies/boxing.png" data-holder-rendered="true">
+            <img class="featurette-image img-responsive center-block page-image splashPageRightHandSideContent" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/pageImages/IMG_7113-1.png" data-holder-rendered="true">
         </div>
     </div>
 
