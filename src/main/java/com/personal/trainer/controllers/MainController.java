@@ -74,6 +74,11 @@ public class MainController {
         return "terms";
     }
 
+    @RequestMapping("/gettingStarted")
+    public String getGettingStarted(){
+        return "gettingStarted";
+    }
+
 
 
     @RequestMapping("/send")

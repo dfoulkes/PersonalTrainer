@@ -45,6 +45,15 @@ webapp.controller('InfoCtrl', function ($scope, $routeParams) {
     }
 );
 
+
+webapp.controller('GettingStartedCtrl', function ($scope, $routeParams) {
+        $scope.project = {
+            name: "Home Automation (Dashboard)"
+        }
+        $("#myCarousel").show();
+    }
+);
+
 webapp.controller('ContactCtrl', function ($scope, $routeParams, ContactService) {
         $scope.project = {
             name: "Home Automation (Dashboard)"
