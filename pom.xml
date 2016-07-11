@@ -146,6 +146,15 @@
                 <homeautomation.finalName>Trainer</homeautomation.finalName>
             </properties>
         </profile>
+
+        <profile>
+            <id>raspberry</id>
+            <properties>
+                <tomcat.server.url>http://192.168.1.197:8080/manager/text</tomcat.server.url>
+                <homeautomation.finalName>Trainer</homeautomation.finalName>
+            </properties>
+        </profile>
+
     </profiles>
 
     <build>
