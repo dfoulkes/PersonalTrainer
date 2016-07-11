@@ -29,7 +29,7 @@
 
     <div class="row featurette">
         <div class="col-md-7 homepage-left-border">
-            <h2 class="featurette-heading">Jo Lost 2 stone in time for his wedding. <span class="text-muted">It'll blow your mind.</span></h2>
+            <h2 class="featurette-heading">Welcome to CG Fitness <span class="text-muted">It'll blow your mind.</span></h2>
             <br />
             <p class="lead">Callum offers one to one personal training sessions, bootcamp, kickboxing and much more.</p>
             <p class="lead">Your training plan will be structured to help you get the best out of your sessions and out of your new lifestyle. I have an excellent success rate with all of my clients that have chosen to train with me. Just take a look at my <a href="#testimonials">testimonials page</a> to see some of the transformations my clients' have made.  </p>
@@ -43,7 +43,7 @@
 
     <div class="row featurette">
         <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
-            <h2 class="featurette-heading">Liz gave it her 100% <span class="text-muted">See for yourself.</span></h2>
+            <h2 class="featurette-heading">Liz Working To The Max<span class="text-muted">See for yourself.</span></h2>
             <p class="lead">Boxing has always been a passion of mine and recently I took part in a charity boxing match.  When training for my fight I learnt just how much stronger mentally and physically boxing made me.</p>
             <p class="lead">Nobody can really say they are looking forward to the cardio part of their work out but with boxing is a total body workout and will enhance your cardiovascular health along with toning and sculpting your body.  With such a high intensity work out you will be sure to hit peak anaerobic training territory meaning you melt away those unwanted calories and fat.</p>
             <p class="lead">Boxing focuses on your upper body strength but also makes you stronger.  Boxing is something that you can incorporate into your daily workouts.  Boxing is a never ending fitness challenge so why not give it a go.</p>
@@ -57,7 +57,7 @@
 
     <div class="row featurette">
         <div class="col-md-7 homepage-left-border">
-            <h2 class="featurette-heading">Start in the Right Place <span class="text-muted">Checkmate.</span></h2>
+            <h2 class="featurette-heading">Start in the Right Place <span class="text-muted">Kettlebell Workout.</span></h2>
             <p class="lead">If you are always up for a challange and love seeking new ways of getting fit then this is a training session for you.  Kettlebells are some of the most powerful tools for improving your overall fitness and body shape. With my high intensity kettlebell session you will be sure to raise that heart rate, melt the fat and build some muscle.
                 Some of the Benefits to kettlebell training:
                 <ul class="lead">
