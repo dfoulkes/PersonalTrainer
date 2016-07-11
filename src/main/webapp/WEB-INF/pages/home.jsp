@@ -100,35 +100,34 @@
             <div class="item active">
                 <img src="./resources/images/header/boxersize.jpg" alt="Chania" width="100%" height="150px">
                 <div class="carousel-caption">
-                    <h3>John Doe</h3>
-                    <p>Someone training for boxing</p>
+                    <h3></h3>
+                    <p></p>
                 </div>
             </div>
 
             <div class="item">
                 <img src="./resources/images/header/banner_05.png" alt="Chania" width="100%" height="150px">
                 <div class="carousel-caption">
-                    <h3>Press-up</h3>
-                    <p>Tim .</p>
+                    <h3></h3>
+                    <p></p>
                 </div>
             </div>
 
             <div class="item">
                 <img src="./resources/images/header/squat.jpg" alt="Flower" width="100%" height="150px">
                 <div class="carousel-caption">
-                    <h3>Jane Do</h3>
-                    <p>Trained to take part in the London marathon</p>
+                    <h3></h3>
+                    <p></p>
                 </div>
             </div>
 
             <div class="item">
                 <img src="./resources/images/header/compilation.jpg" alt="Flower" width="100%" height="150px">
                 <div class="carousel-caption">
-                    <h3>Postnatal</h3>
-                    <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+                    <h3></h3>
+                    <p></p>
                 </div>
             </div>
-
         </div>
 
         <!-- Left and right controls -->
