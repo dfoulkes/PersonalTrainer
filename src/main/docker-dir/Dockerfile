@@ -3,6 +3,6 @@ MAINTAINER "Dan Foulkes <danfoulkes@gmail.com>"
 
 ADD settings.xml /usr/local/tomcat/conf/
 ADD tomcat-users.xml /usr/local/tomcat/conf/
-ADD trainer.war /usr/local/tomcat/webApp/
+ADD trainer.war /usr/local/tomcat/webapps/
 
 EXPOSE 8080
