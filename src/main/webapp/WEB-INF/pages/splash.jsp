@@ -43,7 +43,7 @@
 
     <div class="row featurette">
         <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
-            <h2 class="featurette-heading">Liz Working To The Max</h2>
+            <h2 class="featurette-heading">Liz Working To The Max </h2>
             <p class="lead">Boxing has always been a passion of mine and recently I took part in a charity boxing match.  When training for my fight I learnt just how much stronger mentally and physically boxing made me.</p>
             <p class="lead">Nobody can really say they are looking forward to the cardio part of their work out but with boxing is a total body workout and will enhance your cardiovascular health along with toning and sculpting your body.  With such a high intensity work out you will be sure to hit peak anaerobic training territory meaning you melt away those unwanted calories and fat.</p>
             <p class="lead">Boxing focuses on your upper body strength but also makes you stronger.  Boxing is something that you can incorporate into your daily workouts.  Boxing is a never ending fitness challenge so why not give it a go.</p>
