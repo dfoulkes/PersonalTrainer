@@ -64,17 +64,16 @@
     <div class="row featurette">
         <div class="col-md-7 homepage-left-border">
             <h2 class="featurette-heading">CG Bootcamp! </h2>
-            <p class="lead">If you are always up for a challange and love seeking new ways of getting fit then this is a training session for you.  Kettlebells are some of the most powerful tools for improving your overall fitness and body shape. With my high intensity kettlebell session you will be sure to raise that heart rate, melt the fat and build some muscle.
-                Some of the Benefits to kettlebell training:
+            <p class="lead">This is not any old bootcamp, I am aiming to take bootcamps further than just bringing people together for a good workout.  I want to track your progress, give you a diet plan and help you hit your fitness goals.  We are a little community of like minded fitness enthusiasts who encourage one another to hit their goals too!  Your bootcamp is over a six week period and you will receive a full bootcamp homework programme.  We will spend 2 hours per week together the rest is up to you!
                 <ul class="lead">
-                    <li>Flexibility</li>
-                    <li>Rapid Fat Loss</li>
-                    <li>Stronger back</li>
-                    <li>Muscular strength without the added bulk</li>
-                    <li>Increased endurance</li>
-                    <li><a href="#contact">Contact me</a> for more information or to book a session.</li>
+                    <li>Improve your fitness</li>
+                    <li>Become stronger and leaner</li>
+                    <li>Learn about how to exercise properly and eat healthily</li>
+                    <li>Sweat around 7000 litres of sweat per session</li>
                 </ul>
             </p>
+
+            <p class="lead">Then <a href="#contact">Contact me</a> for more information and prices.  I assure you I will give you the capability to track your diet and exercise regime to keep pushing and progressing at all times, you won't recognise yourself in 6 weeks. </p>
         </div>
         <div class="col-md-5">
             <img class="featurette-image img-responsive center-block page-image splashPageRightHandSideContent" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/pageImages/IMG_7113-1.png" data-holder-rendered="true">
