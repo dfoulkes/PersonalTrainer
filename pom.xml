@@ -131,6 +131,7 @@
             <id>live</id>
             <properties>
                 <tomcat.server.url>http://cgfitness.co.uk/manager/text</tomcat.server.url>
+                <homeautomation.finalName>/</homeautomation.finalName>
             </properties>
         </profile>
 
