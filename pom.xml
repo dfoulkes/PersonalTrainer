@@ -127,6 +127,13 @@
             </properties>
         </profile>
 
+        <profile>
+            <id>live</id>
+            <properties>
+                <tomcat.server.url>http://cgfitness.co.uk/manager/text</tomcat.server.url>
+            </properties>
+        </profile>
+
     </profiles>
 
     <build>
