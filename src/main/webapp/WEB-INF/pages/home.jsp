@@ -23,6 +23,7 @@
     <link href="./resources/css/styles.css" rel="stylesheet">
     <link href="./resources/css/carousel.css" rel="stylesheet">
     <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="./resources/bower_components/angular-chart.js/dist/angular-chart.css" rel="stylesheet">
 
     <script type="application/javascript" src="./resources/bower_components/jquery/dist/jquery.js"></script>
     <script type="application/javascript" src="./resources/bower_components/bootstrap/dist/js/bootstrap.js"></script>
@@ -30,10 +31,14 @@
 
     <script type="application/javascript" src="./resources/bower_components/angular/angular.js"></script>
     <script type="application/javascript" src="./resources/bower_components/angular-route/angular-route.js"></script>
+    <script type="application/javascript" src="./resources/bower_components/Chart.js/Chart.js"></script>
+    <script type="application/javascript" src="./resources/bower_components/angular-chart.js/dist/angular-chart.js"></script>
+
     <script type="application/javascript" src="./resources/js/app.js"></script>
     <script type="application/javascript" src="./resources/js/services.js"></script>
     <script type="application/javascript" src="./resources/js/controller.js"></script>
     <script type="application/javascript" src="./resources/js/menuControl.js"></script>
+    <script type="application/javascript" src="./resources/js/bmi.js"></script>
 </head>
 <body>
 

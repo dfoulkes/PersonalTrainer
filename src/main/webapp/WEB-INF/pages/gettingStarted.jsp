@@ -46,6 +46,16 @@
                     <div class="alert alert-danger text-center" id="obese">
                         Obese
                     </div>
+                            <div class="panel panel-default">
+                                <div class="panel-title">BMI Graph</div>
+                                    <div class="panel-body">
+                                        <canvas id="line" class="chart chart-line" chart-data="data"
+                                                chart-labels="labels" chart-series="series" chart-options="options"
+                                                chart-dataset-override="datasetOverride">
+                                        </canvas>
+                                    </div>
+                                <div class="panel-footer caption"></div>
+                            </div>
                   <div>
                       <small class="disclaimer">legal notice and disclaimer</small>
                       <small class="legalNotice">All information contained in and produced by the BMI calculator is provided for educational purposes only. This information should not be used for the diagnosis or treatment of any health problem or disease.</small>
