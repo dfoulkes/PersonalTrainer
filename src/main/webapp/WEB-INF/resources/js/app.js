@@ -1,4 +1,4 @@
-webapp = angular.module('personalTrainerApp', ['ngRoute']);
+webapp = angular.module('personalTrainerApp', ['ngRoute','chart.js']);
 
 webapp.config(function ($routeProvider) {
     $routeProvider
