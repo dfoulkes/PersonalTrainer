@@ -17,7 +17,7 @@
                 <h1 class="artcileHeader">What is Your BMI?</h1>
                 <p>In your assessment I will also take your measurements, height and weight to work out your BMI:</p>
 
-                <h3>BMI Calculator</h3>
+                <h3>Checkout your BMI</h3>
                 <ul>
                     <form>
                         <fieldset class="form-group">
@@ -46,6 +46,7 @@
                     <div class="alert alert-danger text-center" id="obese">
                         Obese
                     </div>
+
                   <div>
                       <small class="disclaimer">legal notice and disclaimer</small>
                       <small class="legalNotice">All information contained in and produced by the BMI calculator is provided for educational purposes only. This information should not be used for the diagnosis or treatment of any health problem or disease.</small>
