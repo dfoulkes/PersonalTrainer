@@ -46,7 +46,7 @@
     </div>
     <div class="col-md-5">
         <img class="featurette-image img-responsive center-block page-image splashPageRightHandSideContent"
-             data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/callum_port.JPG"
+             data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/selfies/boxing-training.png"
              data-holder-rendered="true">
     </div>
 </div>
