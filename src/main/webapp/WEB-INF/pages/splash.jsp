@@ -10,6 +10,10 @@
             <h2>Babcock International</h2>
             <p></p>
         </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+
+        </div>
         <div class="col-lg-4">
             <a href="http://www.ymcafit.org.uk"><img class="img-circle"
                                                      src="./resources/images/qualifacations/ymca-logo.png"
@@ -17,13 +21,6 @@
             <h2>YMCA Fitness</h2>
             <p></p>
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-            <a href=""><img class="img-circle" src="./resources/images/qualifacations/qualification_3.jpg"
-                            alt="Generic placeholder image" width="140" height="140"></a>
-            <h2>Heading</h2>
-            <p></p>
-        </div>
-
 
     </div><!-- /.row -->
 
