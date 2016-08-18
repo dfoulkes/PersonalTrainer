@@ -69,9 +69,10 @@
                 <h1 class="artcileHeader">Preparation</h1>
                 How to prep for your assessment:
                 <ul>
-                    <li>Wear gym clothes and trainers</li>
-                    <li>Avoid heavy meal atleast 2 hours before coming to the gym</li>
-                    <li>Bring along a food diary from the past week that you have</li>
+                    <li>Wear appropriate gym clothes and trainers</li>
+                    <li>Avoid heavy meals at least 2 hours before coming to the gym. However, I strongly advise eating something light prior to this</li>
+                    <li>Bring along a food diary from the past week</li>
+                    <li>Make sure CG fitness is aware of any illness or injury beforehand</li>
                 </ul>
             </article>
         </div>
