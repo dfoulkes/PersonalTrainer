@@ -100,6 +100,12 @@ public class MainController {
         }
     }
 
+    @RequestMapping("favicon.ico")
+    public String favicon() {
+        return "forward:/resources/images/Favicon/favicon.ico";
+    }
+
+
     private String createHtmlMessage(String from, String message, String email){
         String htmlMessage = "";
         htmlMessage += MESSAGE_HEADER;
