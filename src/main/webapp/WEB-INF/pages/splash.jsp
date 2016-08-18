@@ -85,22 +85,22 @@
 <div class="row featurette">
     <div class="col-md-7 homepage-left-border">
         <h2 class="featurette-heading">CG Bootcamp! </h2>
-        <p class="lead">This is not any old bootcamp, I am aiming to take bootcamps further than just bringing people
-            together for a good workout. I want to track your progress, give you a diet plan and help you hit your
-            fitness goals. We are a little community of like minded fitness enthusiasts who encourage one another to hit
-            their goals too! Your bootcamp is over a six week period and you will receive a full bootcamp homework
-            programme. We will spend 2 hours per week together the rest is up to you!
+        <p class="lead">This is not a typical Boot Camp. I am aiming to take bootcamps further than just bringing people
+            together for a good workout. I will track your progress, give you a diet plan and help you hit your fitness
+            goals. We are a community of like-minded fitness enthusiasts who encourage one another to become the best we
+            can be! The Boot Camp is over a four to six week period and you will receive a full Boot Camp guide. We will
+            spend 2 hours per week together and the rest is up to you!
         <ul class="lead">
             <li>Improve your fitness</li>
-            <li>Become stronger and leaner</li>
+            <li>Improve your appearance</li>
+            <li>Improve your confidence</li>
             <li>Learn about how to exercise properly and eat healthily</li>
-            <li>Sweat around 7000 litres of sweat per session</li>
         </ul>
         </p>
 
-        <p class="lead">Then <a href="#contact">Contact me</a> for more information and prices. I assure you I will give
-            you the capability to track your diet and exercise regime to keep pushing and progressing at all times, you
-            won't recognise yourself in 6 weeks. </p>
+        <p class="lead">Then <a href="#contact">Contact me</a> and prices. I assure you I will give you the capability
+            to track your diet and exercise regime to keep pushing and progressing at all times....You won't recognise
+            yourself in 6 weeks.</p>
     </div>
     <div class="col-md-5">
         <div class="panel panel-default">
