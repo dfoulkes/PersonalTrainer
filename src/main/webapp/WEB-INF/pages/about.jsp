@@ -21,9 +21,8 @@
             <div class="span4">
                 <article class="articleBody">
                     <h1 class="artcileHeader">Who am I</h1>
-                   <p>I have always been passionate about fitness, it’s not just about working out but it's about the science behind what you need to put into your body to get maximum results.  I have recently incorporated boxing into my training routine after taking part in a local charity match and winning.  I have worked with a diverse variety of people, from athletes, footballers and people who have never been in a gym before.  I take pride in every client I train with ensuring they can reach the maximum potential.  I truly believe that exercise and heating healthy impacts your mental heatlh for the better, it boost your self confidence as well as making you fitter and stronger physically.</p>
+                   <p>I have always been passionate about fitness from a young age! Not only the exercise part of things but also the science behind what you need to do, and what nutrients you need to put into your body to get maximum results. I believe if you are going to achieve your goals it has got to be sustainable, fun and kept fresh. I have worked with a range of people from athletes, academy footballers , children and people who have never been in a gym before. I take pride in every client I train and ensure they can all reach their own maximum potential. I truly believe that exercise changes lives for the better and I hope to keep achieving amazing results with my clients using my knowledge, advice and tailored fitness plans.</p>
                     <img src="./resources/images/callum_port.JPG" class="about-header">
-                    <p>It is my dream to one day take CG fitness to the next level and open my own gym.  I am determined to make this happen one day but until then I continue to broaden my horizons by getting new qualifications meeting new people and traveling around the world learning new ways of training and integrating this into my daily work.  </p>
                 </article>
             </div>
 
