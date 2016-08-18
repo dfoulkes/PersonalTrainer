@@ -8,11 +8,11 @@
         <article class="articleBody">
             <h1 class="priceHeader">DISCOVER YOUR PEAK</h1>
             <div class="pricecontent">
-                Stronger, leaner, faster, harder!
-                Your body is an amazing machine, let me help you to teach, nurture and train your body into the machine you want it to be.
-                Have faith, I will help you reach your peak!
-                I offer bespoke sessions tailored to your individual training needs, helping you to achieve top class results.
-                Whether your aim is to reduce body fat, build lean muscle, get 'beach body' or train for an event it's not a problem, I'll get you fit!
+                <p>Get stronger, leaner and faster! Your body is an amazing machine so let me help you to turn your body
+                    into the machine you want it to be. Have faith and I will help you reach your peak!</p>
+                <p>I offer bespoke sessions tailored to your individual training needs which will help you to achieve
+                    amazing results. Whether your aim is to reduce body fat, put on size, get that 'beach body' or train
+                    for an event, it's not a problem, I'll get you fit!</p>
             </div>
         </article>
     </div>
