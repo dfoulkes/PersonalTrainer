@@ -54,15 +54,16 @@
 <div class="row featurette">
     <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
         <h2 class="featurette-heading">Liz Working To The Max </h2>
-        <p class="lead">Boxing has always been a passion of mine and recently I took part in a charity boxing match.
-            When training for my fight I learnt just how much stronger mentally and physically boxing made me.</p>
-        <p class="lead">Nobody can really say they are looking forward to the cardio part of their work out but with
-            boxing is a total body workout and will enhance your cardiovascular health along with toning and sculpting
-            your body. With such a high intensity work out you will be sure to hit peak anaerobic training territory
-            meaning you melt away those unwanted calories and fat.</p>
-        <p class="lead">Boxing focuses on your upper body strength but also makes you stronger. Boxing is something that
-            you can incorporate into your daily workouts. Boxing is a never ending fitness challenge so why not give it
-            a go.</p>
+        <p class="lead">In December 2015 I wanted to challenge myself in something completely new ... I signed up for a
+            UWCB boxing match. When training for my fight I learnt just how much mentally and physically stronger boxing
+            made me. During my 5 months of training I decided to improve my knowledge of the sport further by becoming
+            boxercise qualified for both adults and children.</p>
+        <p class="lead">Nobody can really say they are looking forward to the cardio part of their workout but with
+            boxing it is completely different! It is a great total body workout and with such a high intensity you will
+            be sure to hit peak anaerobic training territory. This means you will quickly melt away those unwanted
+            calories and fat. Boxing doesn't only help improve your body composition but it also focuses on your
+            strength , health and getting rid of any stress!! Why not challenge yourself like me in one of the CG
+            Boxercise classes or a one to one session?</p>
     </div>
     <div class="col-md-5 col-md-pull-7 homepage-left-border">
         <div class="panel panel-default">
