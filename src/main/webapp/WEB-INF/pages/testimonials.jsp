@@ -43,7 +43,7 @@
 
 <div class="row featurette">
     <div class="col-md-7">
-        <h2 class="featurette-heading header-right"><b>Gaile </b><span class="text-muted">15.4</span> stone and not passionate about the fitness industry when she started August 2014.</h2>
+        <h2 class="featurette-heading header-right"><b>Gaile </b> passionate about fitness</h2>
         <p class="lead">
         </p>
         <div class="testimonial">
