@@ -39,7 +39,13 @@
             <div class="span4">
                 <article class="articleBody">
                     <h1 class="artcileHeader">What I can do for you</h1>
-                    <p>My aim is to make you become the best you can be and make sure you are as motivated as possible to achieve your goals in a fun and effective way, its not going to be easy but with my experience and your determination we can make this a journey to remember.</p><p> Your sessions are just not about doing what I say its a chance for me to help educate yourself on how to change your mindset and carry this on throughout your life.  If I can make just one positive change in your new journey I will be happy. Whatever your fitness goal is one thing you can be sure of is that I will be their 100% of the way.</p><p>I qualified through babcock international and I am also Kettlbell , TRX , Boxercise and Nutrition qualified. I am always looking to continue my development to benefit not only myself but my clients too. I am always working towards my next goals and look forward to adding more to my list of qualifications.</p>
+                    <p>My aim is to make you become the best you can be and make sure you are as motivated as possible
+                        to achieve your goals in a fun and effective way. It may not be easy but with my experience and
+                        your determination we can make this a journey to remember.</p>
+                    <p>Your sessions are not just about doing the exercise, but are also a chance to be educated on how
+                        to change your mind-set and carry these changes throughout your life. If I can make just one
+                        positive change in your new journey I will be happy. Whatever your fitness goals are, one thing
+                        you can be sure of is that I will be there all of the way.</p>
                 </article>
             </div>
         </row>
