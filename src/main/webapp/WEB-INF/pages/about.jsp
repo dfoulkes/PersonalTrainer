@@ -30,9 +30,10 @@
             <div class="span4">
                 <article class="articleBody">
                     <h1 class="artcileHeader">Background</h1>
-                    <p>I started CG Fitness in 2013 at Feel Good Leeds Health club and have trained various clients from this time helping them achieve there goals and transform not only their body but more importantly there lives.</p><p> I have always been driven to keep fit and been dedicated to my training from a young age. I previously played for Moortown RUFC from the age of 13 up to open age and gained various awards including a selection for central Yorkshire at different age groups.</p><p>I attended Allerton High School and during this time I captained both the rugby and football team throughout the years which helped me improve my leadership skills and encouraged me to motivate others around me. After sixth form at Allerton High I went on to work at Feel Good Health in Leeds and later became the supervisor before wanting
-                        to fulfil my ambition of becoming a full time personal trainer.</p>
-
+                    <p>I started CG Fitness in 2013 at Feel Good Leeds Health club. Since starting, I have trained various clients, helping them to achieve their goals and transform not only their body, but more importantly their lives.</p>
+                    <p>I have always been driven to keep fit and been dedicated to my training from a young age. I played for Moortown RUFC from the age of 13 right up to my senior rugby days in which I gained various awards including a selection for Yorkshire at different age groups.</p>
+                    <p>I attended Allerton High School and during this time I captained both the rugby and football teams. This helped me to improve my leadership skills and encouraged me to motivate my peers. After sixth form at Allerton High I went on to work at Feel Good Health in Leeds and later became the supervisor. However, I knew all along that I really wanted to fulfil my ambition of becoming a full time personal trainer.</p>
+                    <p>I qualified through Babcock International and I am also Kettlbell , TRX , Boxercise and Nutrition qualified. I am always looking to continue my development to benefit not only myself but my clients too. I am always working towards my next goals and look forward to adding more to my list of qualifications and successful testimonials.</p>
                 </article>
             </div>
 
