@@ -7,8 +7,8 @@
         <div class="span4">
             <article class="articleBody">
                 <h1 class="artcileHeader">Welcome to CG Fitness</h1>
-                <p> Before your first 1:1 training session we will meet for a complimentary assessment.  In this assessment we can go through any fitness training you may have done before, any injuries you have that I need to be made aware of.</p>
-                <p>During your assessment I will perform a short fitness test, go through your short term - long term fitness goals. I am here to tailor your plan to what you want to work on.  Working with me will give you the knowledge and ability to make longterm lifestyle changes.  Once we have gone through everything you want out of your training sessions we will do a small workout of your plan in the gym just to get you started. Once all this is done on your first personal training session you will get your very own tailored fitness plan and food plan to follow. After 6 weeks of training we will meet up again and review your exercises and meal plan.</p>
+                <p>Before your first one to one training session we will meet for a complimentary assessment. In this assessment we can go through; any fitness training that you might have done before, any injuries that you have that I need to be made aware of , fitness testing , measurements and your fitness goals. I am here to tailor your plan to what you want to work on. Working with me will give you the knowledge and ability to make long term lifestyle changes. Once we have gone through everything you want out of your training sessions we will do a small workout of your plan in the gym just to get you started. Once all this is done on your first personal training session you will get your very own tailored fitness plan and food plan to follow. After 6 weeks of training we will meet up again and review your programme and meal plan.</p>
+                <p>You will also receive a CG Fitness starter pack which will include all of the information you need to create greatness. Remember, If it doesn't challenge you... it doesn't change you.</p>
             </article>
         </div>
 
