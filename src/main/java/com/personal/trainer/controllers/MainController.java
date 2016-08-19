@@ -24,7 +24,7 @@ public class MainController {
     @Autowired
     private static JavaMailSender mailSender;
 
-    private static final  String TO_ADDRESS = "cgfitness16@gmail.com";
+    private static final String TO_ADDRESS = "callumgomersall@hotmail.co.uk";
     private static final  String MESSAGE_TYPE = "text/html";
     private static final  String SUBJECT = "Website Enquiry";
     private static final  String MESSAGE_HEADER = "<h1>Message Received</h1>";
@@ -99,12 +99,6 @@ public class MainController {
             LOGGER.error(e.getMessage());
         }
     }
-
-    @RequestMapping("favicon.ico")
-    public String favicon() {
-        return "forward:/resources/images/Favicon/favicon.ico";
-    }
-
 
     private String createHtmlMessage(String from, String message, String email){
         String htmlMessage = "";
