@@ -53,7 +53,7 @@
 
 <div class="row featurette">
     <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
-        <h2 class="featurette-heading">Liz Working To The Max </h2>
+        <h2 class="featurette-heading">CG Boxing</h2>
         <p class="lead">In December 2015 I wanted to challenge myself in something completely new ... I signed up for a
             UWCB boxing match. When training for my fight I learnt just how much mentally and physically stronger boxing
             made me. During my 5 months of training I decided to improve my knowledge of the sport further by becoming
