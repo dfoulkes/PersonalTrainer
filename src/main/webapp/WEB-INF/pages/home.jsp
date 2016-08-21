@@ -171,7 +171,7 @@
     <!-- FOOTER -->
     <footer class="foreground">
         <p class="pull-right"></p>
-        <p>© 2016 CG Fitness, Inc . · <a href="#privacy">Privacy</a> · <a href="#terms">Terms</a> </p>
+        <p>© 2016 CG Fitness · <a href="#privacy">Privacy</a> · <a href="#terms">Terms</a></p>
         <small>© 2016 created By Dan Foulkes</small>
         <div class="social">
             <ul>
