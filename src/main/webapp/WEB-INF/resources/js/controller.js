@@ -141,7 +141,7 @@ webapp.controller('GettingStartedCtrl', function ($scope, $routeParams) {
     }
 );
 
-webapp.controller('ContactCtrl', function ($scope, $routeParams, ContactService) {
+webapp.controller('ContactCtrl', function ($scope, $routeParams, ContactService, $q) {
         $scope.project = {
             name: "Home Automation (Dashboard)"
         }
@@ -165,9 +165,26 @@ webapp.controller('ContactCtrl', function ($scope, $routeParams, ContactService)
                     $("#errorMessage").show();
                 }
                 else {
-                    $("#errorMessage").hide();
-                    ContactService.save(contact);
-                    $("#messageSent").show();
+
+                    var promise = ContactService.save(contact);
+
+                    promise.then(
+                        function (payload) {
+                            var result = payload.data;
+                            if (result.status === "OK") {
+                                $("#errorMessage").hide();
+                                $("#messageSent").show();
+                            }
+                            else {
+                                $scope.error = result.message;
+                                $("#errorMessage").show();
+                            }
+
+                        },
+                        function (errorPayload) {
+                            $log.error('failure loading movie', errorPayload);
+                        });
+
                 }
                 //display thank you message
             }

@@ -11,7 +11,6 @@
     <!-- Enables the Spring MVC @Controller programming model -->
     <mvc:annotation-driven />
 
-
     <context:component-scan base-package="com.personal.trainer.**"/>
 
     <mvc:resources mapping="/resources/**" location="/WEB-INF/resources/" />
@@ -37,10 +36,5 @@
             </props>
         </property>
     </bean>
-
-
-    <mvc:resources mapping="/resources/**" location="/WEB-INF/resources/"/>
-
-
 
 </beans>
