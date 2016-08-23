@@ -21,8 +21,8 @@ public class MainControllerTest {
 
 
     public static final String DAN = "dan";
-    public static final String DANFOULKES_GMAIL_COM = "danfoulkes@gmail.com";
-    public static final String INTEGRATION_TEST_RAN_SUCCESSFULLY_EMAIL_SERVICE_IS_WORKING_AT = "integration test ran successfully, email service is working";
+    public static final String DANFOULKES_GMAIL_COM = "cgfitness16@gmail.com";
+    public static final String INTEGRATION_TEST_RAN_SUCCESSFULLY_EMAIL_SERVICE_IS_WORKING_AT = "This is a integration test, if you're seeing this email then the email service is working.";
 
     @Autowired
     private RestContactController restContactController;
@@ -30,7 +30,7 @@ public class MainControllerTest {
 
     @Test
     public void sendMessage() throws Exception {
-        ResultObject resultObject = restContactController.sendMessage("dan", "danfoulkes@gmail.com", "integration test ran successfully, email service is working");
+        ResultObject resultObject = restContactController.sendMessage(DAN, DANFOULKES_GMAIL_COM, INTEGRATION_TEST_RAN_SUCCESSFULLY_EMAIL_SERVICE_IS_WORKING_AT);
         assertThat("expected the status to be ok. ", resultObject.getStatus(), is(Status.OK));
     }
 

@@ -22,16 +22,25 @@
 
 
     <!-- SET default mail properties -->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/pages/"/>
+        <property name="suffix" value=".jsp"/>
+    </bean>
+
+
+    <!-- SET default mail properties -->
     <bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
-        <property name="host" value="smtp.gmail.com"/>
-        <property name="port" value="587"/>
-        <property name="username" value="cgfitness16@gmail.com"/>
-        <property name="password" value="CGpassword12"/>
+        <property name="host" value="email-smtp.us-west-2.amazonaws.com"/>
+        <property name="port" value="25"/>
+        <property name="username" value="AKIAJSGLOSQFLCJ6BNSQ"/>
+        <property name="password" value="ApjGkyZp2OxXIzuQbfhnAOcQcstzFzGOQeZRwNM79iwy"/>
         <property name="javaMailProperties">
             <props>
                 <prop key="mail.transport.protocol">smtp</prop>
+                <prop key="mail.smtp.port">25</prop>
                 <prop key="mail.smtp.auth">true</prop>
                 <prop key="mail.smtp.starttls.enable">true</prop>
+                <prop key="mail.smtp.starttls.required">false</prop>
                 <prop key="mail.debug">true</prop>
             </props>
         </property>
