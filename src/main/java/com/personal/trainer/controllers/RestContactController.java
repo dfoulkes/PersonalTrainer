@@ -23,11 +23,11 @@ public class RestContactController {
     private JavaMailSender mailSender;
 
 
-    //private static final String TO_ADDRESS = "callumgomersall@hotmail.co.uk";
-    private static final String TO_ADDRESS = "danfoulkes@gmail.com";
+    private static final String TO_ADDRESS = "callumgomersall@hotmail.co.uk";
     public static final String MESSAGE_TYPE = "text/html";
     private static final String SUBJECT = "Website Enquiry";
     private static final String MESSAGE_HEADER = "<h1>Message Received</h1>";
+    private static final String FROM_ADDRESS = "admin@cgfitness.co.uk";
 
     private static final Logger LOGGER = Logger.getLogger(RestContactController.class);
 
@@ -45,6 +45,7 @@ public class RestContactController {
             mimeMessage.setContent(createHtmlMessage(name, message, email), MESSAGE_TYPE);
             MimeMessageHelper helper = new MimeMessageHelper(mimeMessage);
             helper.setTo(TO_ADDRESS);
+            helper.setFrom(FROM_ADDRESS);
             helper.setSubject(SUBJECT);
             mailSender.send(mimeMessage);
             return new ResultObject("success.", Status.OK);
@@ -58,7 +59,7 @@ public class RestContactController {
             LOGGER.info(e.getMessage());
             LOGGER.error("unknown exception happened.");
             LOGGER.error(e.getMessage());
-            return new ResultObject("unable to send the mail, please contact me directly at  <a href=\"mailto:callumgomersall@hotmail.co.uk?Subject=Website%20Enquiry\" target=\"_top\">callumgomersall@hotmail.co.uk</a>", Status.ERROR);
+            return new ResultObject("unable to send the mail, please contact me directly at  callumgomersall@hotmail.co.uk", Status.ERROR);
         }
     }
 
