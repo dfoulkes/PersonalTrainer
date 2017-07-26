@@ -54,16 +54,16 @@
 <div class="row featurette">
     <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
         <h2 class="featurette-heading">CG Boxing</h2>
-        <p class="lead">In December 2015 I wanted to challenge myself in something completely new ... I signed up for a
-            UWCB boxing match. When training for my fight I learnt just how much mentally and physically stronger boxing
-            made me. During my 5 months of training I decided to improve my knowledge of the sport further by becoming
-            boxercise qualified for both adults and children.</p>
-        <p class="lead">Nobody can really say they are looking forward to the cardio part of their workout but with
-            boxing it is completely different! It is a great total body workout and with such a high intensity you will
-            be sure to hit peak anaerobic training territory. This means you will quickly melt away those unwanted
-            calories and fat. Boxing doesn't only help improve your body composition but it also focuses on your
-            strength , health and getting rid of any stress!! Why not challenge yourself like me in one of the CG
-            Boxercise classes or a one to one session?</p>
+        <p class="lead" style="padding-left: 0">BOXFIT Class - Every Monday at 7:30pm - 8:15pm</p>
+        <p>In December 2015 Callum signed up for a <a href="https://www.ultrawhitecollarboxing.co.uk" target="_blank">UWCB
+            charity boxing fight</a>. Boxing is an incredible sport which provides a full body workout and improves both
+            physical and mental strength.Boxers are more likely to hit their peak anaerobic training territory due to
+            the sport's high intensity; this means that unwanted fat becomes easier to burn off. Boxing is also a good
+            way to release stress. </p>
+        <p>Callum's own training inspired him to increase his knowledge of the sport by becoming boxercise qualified for
+            both adults and children. </p>
+        <p>Come along to the CG Fitness boxfit class on a Monday night totry it for yourself. Spaces are limited so
+            please contact Callum to book your place to avoid missing out.</p>
     </div>
     <div class="col-md-5 col-md-pull-7 homepage-left-border">
         <div class="panel panel-default">
