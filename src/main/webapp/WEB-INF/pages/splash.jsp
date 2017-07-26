@@ -32,8 +32,8 @@
 
 <div class="row featurette">
     <div class="col-md-7 homepage-left-border">
-        <h2 class="featurette-heading">Welcome to CG Fitness. <span class="text-muted">Time To Create Greatness</span>
-        </h2>
+        <h2 class="featurette-heading">CG Fitness.</h2>
+        <h2><span class="text-muted">Creating Greatness</span></h2>
         <br/>
         <p class="lead">Callum offers one to one personal training sessions, bootcamp, boxing classes and much more.</p>
         <p class="lead">The training plans that I will create for you will be structured in order for you to get the
