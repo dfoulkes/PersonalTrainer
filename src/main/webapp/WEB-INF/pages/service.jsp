@@ -8,14 +8,16 @@
         <article class="articleBody">
             <h1 class="priceHeader">DISCOVER YOUR PEAK</h1>
             <div class="pricecontent">
-                <p>Get stronger, leaner and faster! Your body is an amazing machine so let me help you to turn your body
-                    into the machine you want it to be. Have faith and I will help you reach your peak!</p>
-                <p>I offer bespoke sessions tailored to your individual training needs which will help you to achieve
-                    amazing results. Whether your aim is to reduce body fat, put on size, get that 'beach body' or train
-                    for an event, it's not a problem, I'll get you fit!</p>
+                <p>Callum provides tailor-made personal training sessions to suit each individual's
+                    needs. Whether you want to lose a lot of weight, tone up or simply get fit for an upcoming event,
+                    Callum can help.</p>
+                <p>Callum also allows his client's to train in pairs for the small price of &pound15pp, this is
+                    something unique which many trainers don't offer and means you can have fun with a friend whilst
+                    getting fit!</p>
             </div>
         </article>
     </div>
+
     <div class="span4 priceListBox">
         <article class="articleBody">
             <h1 class="priceHeader">Initial Assessment</h1>
@@ -24,24 +26,35 @@
             </div>
         </article>
         <article class="articleBody">
-            <h1 class="priceHeader">30 Minutes</h1>
+            <h1 class="priceHeader">30 Minutes Session</h1>
             <div class="pricecontent">
                 <span class="priceBulletin">&pound15.00</span>
             </div>
         </article>
         <article class="articleBody">
-            <h1 class="priceHeader">1 Hour</h1>
+            <h1 class="priceHeader">60 Minutes Session</h1>
             <div class="pricecontent">
                 <span class="priceBulletin">&pound25.00</span>
             </div>
         </article>
         <article class="articleBody">
-            <h1 class="priceHeader">Buy 9 get one FREE</h1>
+            <h1 class="priceHeader">60 Minutes Session (Two People)</h1>
+            <div class="pricecontent">
+                <span class="priceBulletin">&pound15.00 Each</span>
+            </div>
+        </article>
+        <article class="articleBody">
+            <h1 class="priceHeader">Ten 30 Minutes Sessions</h1>
+            <div class="pricecontent">
+                <span class="priceBulletin">&pound135.00</span>
+            </div>
+        </article>
+        <article class="articleBody">
+            <h1 class="priceHeader">Ten 60 Minutes Sessions</h1>
             <div class="pricecontent">
                 <span class="priceBulletin">&pound225.00</span>
             </div>
         </article>
-
     </div>
 
     <div class="span4 visible-desktop">
