@@ -50,20 +50,17 @@
 <div class="row featurette">
     <div class="col-md-7">
         <h2 class="featurette-heading header-right"><b>Gaile </b> passionate about fitness</h2>
-        <p class="lead">
-        </p>
         <div class="testimonial">
-            <p>I have been training with Callum for nearly two years now  and I am still learning all the time about exercise, fitness and the science behind it all.</p>
-            <p>I began working with him originally to lose weight and beginning at 15 stone 4 pounds I had quite a bit to lose as a size 18.  I'd rejoined the gym about six months before and only managed to lose a few pounds and I really didn't know what I was doing or where to go next.  I'd had a few conversations with Callum about exercises then noticed his advert for Personal Training sessions and thought let's give it a go.
-                As soon as we began that first session I knew I'd done the right thing and that I'd picked the right trainer.  I felt a connection and thought I can work with this guy.  The way he spoke about his ideas and exercises was so inspirational; I couldn't wait to get started.</p>
-            <p>Callum is a brilliant trainer with lots of enthusiasm and desire to see his clients succeed.  His planning and organisation is excellent, tailoring sessions to his clients' individual needs.  I wasn't sure what to expect but he really knows what he is doing.
-                Don't get me wrong he'll expect you to work really hard, he wants results for you (no time wasters allowed).  I wouldn't say blood (well maybe once!) but there has been sweat and lots of tears when it is so hard and you feel broken but he's there supporting you and constantly motivates and mentors you all the way.  He has such a cheery disposition and positive attitude it makes you want to work harder even though you're having fun. </p>
-            <p>He keeps a close check on things and has weighed me every week and has got me to measure myself and keep a track of my progress.  I've lost more than five stone now, 73 pounds (33.11kg) in the last 23 months and Callum has also had me measure my body fat which I have reduced from 39% to 17%!  My whole body shape has completely changed and everything about me is healthier.</p>
-            <p>Callum even suggested I maybe enter a 12 week body transformation competition which I decided to do and with his continued guidance and motivation I managed to lose a further 12 pounds but reduce body fat and looked so much leaner but with much more definition and muscle tone.
-                It isn't just about the weight loss and results but the training sessions and how they make me feel.  Every session is different and I leave every session buzzing, feeling smashed but like I could take on the world.  He's done so much to build my confidence (a work in progress) and myself belief.  He is actively interested in the progress of his clients' and is always on hand for support.</p>
-            <p>He's a super role model himself with his own training regime and boxing events as well as new training courses furthering his own development.  He's constantly looking for new ideas.</p>
-            <p>I have lost a tremendous amount of weight with Callum's help and he has helped to not only change my body shape and given me bags more confidence but my fitness levels have soared too.  My goals for the future have changed and stepped up a few gears and with Callum's help I hope to get there and achieve great things.
-                I've gained a very good and dear friend and its Callum's warm personality that makes him different to other personal trainers.  So, if you want a reliable, professional, personable personal trainer and one that really does get results then Callum is for you.  Call him you won't regret it, even if he does make you cry!</p>
+            <p>I trained with Callum for over two years. I began working with him originally to lose weight and
+                beginning at 15 stone 4 pounds I had quite a bit to lose as a size 18.</p>
+            <p>Id re-joined the gym about six months before and only managed to lose a few pounds and I really didn’t
+                know what I was doing or where to go next. I lost more than five stone, 73 pounds (33.11kg) in 23 months
+                and Callum had me measure my body fat which I reduced from 39% to 17%! </p>
+            <p>My whole body shape completely changed and everything about me is healthier. With his continued guidance
+                and motivation I managed to lose a further 12 pounds and reduce body fat. </p>
+            <p>He’s done so much to build my confidence (a work in progress) and myself belief. I have lost a tremendous
+                amount of weight with Callum’s help and he has helped to not only change my body shape and given me bags
+                more confidence but my fitness levels have soared too.</p>
         </div>
     </div>
     <div class="col-md-5">
