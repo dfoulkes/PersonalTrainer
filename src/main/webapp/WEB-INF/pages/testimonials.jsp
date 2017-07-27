@@ -6,7 +6,9 @@
     <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
         <h2 class="featurette-heading header-right">Ben Turner </h2>
 
-        <p class="lead">Ex Manchester city Academy footballer came to me before his football season began to improve his fitness for his upcoming football season. Mixing the training up we saw Ben's fitness improve rapidly. Training four times a week and mixing things up we saw great results.</p>
+        <p class="lead">I am an ex Manchester City Academy football player, and I approached Callum to improve my
+            fitness for my upcoming football season. After training four times a week with Callum I saw my fitness
+            improve rapidly. Callum always mixed things up to help me see great results.</p>
     </div>
     <div class="col-md-5 col-md-pull-7">
         <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/beforeAfter/ba005.png" data-holder-rendered="true">
