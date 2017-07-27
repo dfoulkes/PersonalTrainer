@@ -13,10 +13,6 @@
                     tailor-make a client’s individual plan to suit their own needs. This plan will give each client the
                     knowledge to make positive long term lifestyle changes. Once the discussion is over, Callum will run
                     through a small workout in the gym almost like a taster session.</p>
-
-                <div class="span2">
-
-                </div>
             </article>
         </div>
 
