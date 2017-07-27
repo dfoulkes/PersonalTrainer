@@ -29,12 +29,31 @@
             <div class="span4">
                 <article class="articleBody">
                     <h1 class="artcileHeader">Background</h1>
-                    <p>I started CG Fitness in 2013 at Feel Good Leeds Health club. Since starting, I have trained various clients, helping them to achieve their goals and transform not only their body, but more importantly their lives.</p>
-                    <p>I have always been driven to keep fit and been dedicated to my training from a young age. I played for Moortown RUFC from the age of 13 right up to my senior rugby days in which I gained various awards including a selection for Yorkshire at different age groups.</p>
-                    <p>I attended Allerton High School and during this time I captained both the rugby and football teams. This helped me to improve my leadership skills and encouraged me to motivate my peers. After sixth form at Allerton High I went on to work at Feel Good Health in Leeds and later became the supervisor. However, I knew all along that I really wanted to fulfil my ambition of becoming a full time personal trainer.</p>
-                    <p>I qualified through Babcock International and I am also Kettlbell , TRX , Boxercise and Nutrition qualified. I am always looking to continue my development to benefit not only myself but my clients too. I am always working towards my next goals and look forward to adding more to my list of qualifications and successful testimonials.</p>
+                    <p>Callum set up CG Fitness in 2013 at Feel Good Health Club, Leeds. Since starting, Callum has
+                        trained various clients helping them to achieve their own individual goals and to transform not
+                        only their bodies, but more importantly their lives. </p>
+                    <p>He has always been passionate about fitness from a young age. Not only in relation to exercise,
+                        but also learning about the nutrients the body requires to get maximum results when
+                        training. </p>
+                    <p>Through his career he has worked with a range of people from athletes, academy footballers,
+                        children and first time gym users. From those clients who want to achieve a big weight loss to
+                        those who want to tone up on a more short-term basis, he is capable of meeting client’s
+                        individual needs and making plans that will best be suited for them. </p>
+                    <p>Callum captained both his school rugby and football team which helped him to build leadership
+                        skills and encouraged him to motivate others. He played for Moortown RUFC from a young age
+                        throughout his school life, where he was selected for Yorkshire at many different ages. </p>
+                    <p>After sixth form he went on to work at Feel Good Health Club in Leeds where he later fulfilled
+                        his ambition of becoming a full time personal trainer. After qualifying as a personal trainer
+                        through Babcock International.</p>
+                    <p>He is also qualified in spinning, kettlebell, TRX, Boxercise and Nutrition. He is always looking
+                        to continue his development through different courses to benefit his clients. His qualifications
+                        and successful testimonials are always growing. </p>
+                    <p>As his clients would testify, he offers constant support to all of his clients, outside of their
+                        training sessions as well as during these sessions. His ability to motivate his clients is
+                        evident through their success.</p>
                 </article>
             </div>
+
 
             <div class="span4">
                 <article class="articleBody">
