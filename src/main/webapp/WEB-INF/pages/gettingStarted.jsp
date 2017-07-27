@@ -7,8 +7,16 @@
         <div class="span4">
             <article class="articleBody">
                 <h1 class="artcileHeader">Welcome to CG Fitness</h1>
-                <p>Before your first one to one training session we will meet for a complimentary assessment. In this assessment we can go through; any fitness training that you might have done before, any injuries that you have that I need to be made aware of , fitness testing , measurements and your fitness goals. I am here to tailor your plan to what you want to work on. Working with me will give you the knowledge and ability to make long term lifestyle changes. Once we have gone through everything you want out of your training sessions we will do a small workout of your plan in the gym just to get you started. Once all this is done on your first personal training session you will get your very own tailored fitness plan and food plan to follow. After 6 weeks of training we will meet up again and review your programme and meal plan.</p>
-                <p>You will also receive a CG Fitness starter pack which will include all of the information you need to create greatness. Remember, If it doesn't challenge you... it doesn't change you.</p>
+                <p>Before booking the first one to one training session, everybody is entitled to a free initial
+                    assessment. This assessment will involve discussing any previous fitness training, any injuries,
+                    fitness tests and measurements, and current fitness goals. This is important so that Callum can
+                    tailor-make a client’s individual plan to suit their own needs. This plan will give each client the
+                    knowledge to make positive long term lifestyle changes. Once the discussion is over, Callum will run
+                    through a small workout in the gym almost like a taster session.</p>
+
+                <div class="span2">
+
+                </div>
             </article>
         </div>
 
@@ -66,13 +74,16 @@
 
         <div class="span4">
             <article class="articleBody">
-                <h1 class="artcileHeader">Preparation</h1>
-                How to prep for your assessment:
-                <ul>
-                    <li>Wear appropriate gym clothes and trainers</li>
-                    <li>Avoid heavy meals at least 2 hours before coming to the gym. However, I strongly advise eating something light prior to this</li>
-                    <li>Bring along a food diary from the past week</li>
-                    <li>Make sure CG fitness is aware of any illness or injury beforehand</li>
+                <h1 class="artcileHeader">Advice for the initial assessment:</h1>
+                <ul class="list-group">
+                    <li class="list-group-item">Wear appropriate gym clothes and trainers</li>
+                    <li class="list-group-item">Eat something light before attending but avoid heavy meals at least two
+                        hours before coming to the gym.
+                    </li>
+                    <li class="list-group-item">Bring along a food diary from the past wee</li>
+                    <li class="list-group-item">Make sure to inform Callum of any injuries/illnesses which may affect
+                        training.
+                    </li>
                 </ul>
             </article>
         </div>
