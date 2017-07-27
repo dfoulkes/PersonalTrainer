@@ -20,7 +20,11 @@
 <div class="row featurette">
     <div class="col-md-7">
         <h2 class="featurette-heading header-right">Bradley Pearson. <span class="text-muted">Boom.</span></h2>
-        <p class="lead">I started training with Callum in February 2016 with the aim of putting on some size as doing this on my own was not going as successful as I expected. After 4 days a week for 4 weeks I put on half a stone along with reducing body fat. Callum created me a customised diet plan which was effective around my work schedule and easy to maintain.  After the 4 weeks transformation with Callum I felt more motivated and knowledgeable to progress in preparation for my summer holiday .</p>
+        <p class="lead">I started training with Callum in February 2016 with the aim to put on some size as doing this
+            on my own was not successful. After training four days a week for four weeks I put on half a stone along
+            with reducing body fat. Callum created a customised diet plan for me, which was effective around my work
+            schedule and easy to maintain. After the 4 week transformation with Callum I felt more motivated and
+            knowledgeable to progress in preparation for my summer holiday.</p>
     </div>
     <div class="col-md-5">
         <img class="featurette-image img-responsive center-block page-image splashPageRightHandSideContent" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/beforeAfter/ba003.png" data-holder-rendered="true">
