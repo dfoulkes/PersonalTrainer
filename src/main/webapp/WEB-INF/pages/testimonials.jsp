@@ -50,8 +50,6 @@
 <div class="row featurette">
     <div class="col-md-7">
         <h2 class="featurette-heading header-right"><b>Gaile </b> passionate about fitness</h2>
-        <p class="lead">
-        </p>
         <div class="testimonial">
             <p>I trained with Callum for over two years. I began working with him originally to lose weight and
                 beginning at 15 stone 4 pounds I had quite a bit to lose as a size 18.</p>
