@@ -51,15 +51,19 @@
     <div class="col-md-7">
         <h2 class="featurette-heading header-right"><b>Gaile </b> passionate about fitness</h2>
         <div class="testimonial">
-            <p>I trained with Callum for over two years. I began working with him originally to lose weight and
+            <p class="lead">I trained with Callum for over two years. I began working with him originally to lose weight
+                and
                 beginning at 15 stone 4 pounds I had quite a bit to lose as a size 18.</p>
-            <p>Id re-joined the gym about six months before and only managed to lose a few pounds and I really didn’t
+            <p class="lead">Id re-joined the gym about six months before and only managed to lose a few pounds and I
+                really didn’t
                 know what I was doing or where to go next. I lost more than five stone, 73 pounds (33.11kg) in 23 months
                 and Callum had me measure my body fat which I reduced from 39% to 17%! </p>
-            <p>My whole body shape completely changed and everything about me is healthier. With his continued guidance
+            <p class="lead">My whole body shape completely changed and everything about me is healthier. With his
+                continued guidance
                 and motivation I managed to lose a further 12 pounds and reduce body fat. </p>
-            <p>He’s done so much to build my confidence (a work in progress) and myself belief. I have lost a tremendous
-                amount of weight with Callum’s help and he has helped to not only change my body shape and given me bags
+            <p class="lead">He's done so much to build my confidence (a work in progress) and myself belief. I have lost
+                a tremendous
+                amount of weight with Callum's help and he has helped to not only change my body shape and given me bags
                 more confidence but my fitness levels have soared too.</p>
         </div>
     </div>
