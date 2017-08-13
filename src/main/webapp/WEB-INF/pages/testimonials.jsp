@@ -76,7 +76,9 @@
 <div class="row featurette">
     <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
         <h2 class="featurette-heading header-right">Elliot Cierpiol Gave it 100% <span class="text-muted">See for yourself.</span></h2>
-        <p class="lead">In May 2015 Callum produced me a 4 weeks training programme and diet plan specific to me after a consultation in Leeds before I had to head home back to Newcastle. Following the plan and consistent help from Callum created some fantastic results and helped me to understand the way I should be training for my goals.</p>
+        <p class="lead">In May 2015 Callum produced a four week training and diet plan specific for me. Following the
+            plan and having consistent help from Callum I created some fantastic results. He helped me to understand the
+            way I should be training for my goals.</p>
     </div>
     <div class="col-md-5 col-md-pull-7">
         <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="500x500" src="./resources/images/beforeAfter/ba002.png" data-holder-rendered="true">
