@@ -55,8 +55,8 @@
     <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
         <h2 class="featurette-heading">CG Boxing</h2>
         <p class="lead" style="padding-left: 0">BOXFIT Class - Every Monday at 7:30pm - 8:15pm</p>
-        <p>In December 2015 Callum signed up for a <a href="https://www.ultrawhitecollarboxing.co.uk" target="_blank">UWCB
-            charity boxing fight</a>. Boxing is an incredible sport which provides a full body workout and improves both
+        <p>In December 2015 Callum signed up for a >UWCB
+            charity boxing fight. Boxing is an incredible sport which provides a full body workout and improves both
             physical and mental strength.Boxers are more likely to hit their peak anaerobic training territory due to
             the sport's high intensity; this means that unwanted fat becomes easier to burn off. Boxing is also a good
             way to release stress. </p>
