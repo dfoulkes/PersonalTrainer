@@ -102,3 +102,26 @@
 </div>
 
 <hr class="featurette-divider">
+
+<div class="row featurette">
+    <div class="col-md-7 col-md-push-5 splashPageRightHandSideContent">
+        <h2 class="featurette-heading header-right">Zaynah</h2>
+        <p class="lead">I could not have asked for a better PT! I initially contacted Callum with the plan to train with
+            him for few months before my wedding. However, I continued to work with him for well over a year because I
+            saw great improvements and enjoyed it so much. Every single workout was different and pushed me much further
+            than I thought was possible (never knew I was capable of producing so much sweat). I have left so much
+            fitter and stronger than before I started,my shape has changed,and I actually don't mind doing burpees! </p>
+        <p class="lead">Callum is personable, extremely patient ( I complained ALOT ), motivating, and is evidently
+            passionate about what he does. He doesn't take himself too seriously which makes the sessions much more fun.
+            No question was ever too silly, and he always went above and beyond to make sure I stayed on track and had
+            my own training programmes to complete. I enjoyed every single session and always left in a great mood and
+            feeling stronger than ever. I couldn't recommend him more and I know he will continue to have a successful
+            career.</p>
+    </div>
+    <div class="col-md-5 col-md-pull-7">
+        <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="500x500"
+             src="./resources/images/beforeAfter/ba008.png" data-holder-rendered="true">
+    </div>
+</div>
+
+<hr class="featurette-divider">
