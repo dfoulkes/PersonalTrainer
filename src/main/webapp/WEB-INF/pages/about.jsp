@@ -22,7 +22,7 @@
                 <article class="articleBody">
                     <h1 class="artcileHeader">Who am I</h1>
                    <p>I have always been passionate about fitness from a young age! Not only the exercise part of things but also the science behind what you need to do, and what nutrients you need to put into your body to get maximum results. I believe if you are going to achieve your goals it has got to be sustainable, fun and kept fresh. I have worked with a range of people from athletes, academy footballers , children and people who have never been in a gym before. I take pride in every client I train and ensure they can all reach their own maximum potential. I truly believe that exercise changes lives for the better and I hope to keep achieving amazing results with my clients using my knowledge, advice and tailored fitness plans.</p>
-                    <img src="./resources/images/callum_port.JPG" class="about-header">
+                    <img src="./resources/images/meet_callum.JPG" class="about-header">
                 </article>
             </div>
 
