@@ -65,7 +65,7 @@
             way to release stress. </p>
         <p>Callum's own training inspired him to increase his knowledge of the sport by becoming boxercise qualified for
             both adults and children. </p>
-        <p>Come along to the CG Fitness boxfit class on a Monday night totry it for yourself. Spaces are limited so
+        <p>Come along to the CG Fitness boxfit class on a Monday night to try it for yourself. Spaces are limited so
             please contact Callum to book your place to avoid missing out.</p>
     </div>
     <div class="col-md-5 col-md-pull-7 homepage-left-border">
