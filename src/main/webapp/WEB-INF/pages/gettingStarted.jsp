@@ -10,7 +10,7 @@
                 <p>Before booking the first one to one training session, everybody is entitled to a free initial
                     assessment. This assessment will involve discussing any previous fitness training, any injuries,
                     fitness tests and measurements, and current fitness goals. This is important so that Callum can
-                    tailor-make a client’s individual plan to suit their own needs. This plan will give each client the
+                    tailor-make a client's individual plan to suit their own needs. This plan will give each client the
                     knowledge to make positive long term lifestyle changes. Once the discussion is over, Callum will run
                     through a small workout in the gym almost like a taster session.</p>
             </article>
