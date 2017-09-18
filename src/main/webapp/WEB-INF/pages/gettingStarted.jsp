@@ -76,7 +76,7 @@
                     <li class="list-group-item">Eat something light before attending but avoid heavy meals at least two
                         hours before coming to the gym.
                     </li>
-                    <li class="list-group-item">Bring along a food diary from the past wee</li>
+                    <li class="list-group-item">Bring along a food diary from the past week</li>
                     <li class="list-group-item">Make sure to inform Callum of any injuries/illnesses which may affect
                         training.
                     </li>
