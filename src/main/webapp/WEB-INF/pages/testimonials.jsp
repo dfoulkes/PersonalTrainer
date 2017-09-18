@@ -55,7 +55,7 @@
                 and
                 beginning at 15 stone 4 pounds I had quite a bit to lose as a size 18.</p>
             <p class="lead">Id re-joined the gym about six months before and only managed to lose a few pounds and I
-                really didn’t
+                really didn't
                 know what I was doing or where to go next. I lost more than five stone, 73 pounds (33.11kg) in 23 months
                 and Callum had me measure my body fat which I reduced from 39% to 17%! </p>
             <p class="lead">My whole body shape completely changed and everything about me is healthier. With his
