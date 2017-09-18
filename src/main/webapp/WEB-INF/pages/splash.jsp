@@ -36,10 +36,13 @@
         <h2><span class="text-muted">Creating Greatness</span></h2>
         <br/>
         <p class="lead">Callum offers one to one personal training sessions, bootcamp, boxing classes and much more.</p>
-        <p class="lead">The training plans that I will create for you will be structured in order for you to get the
-            most out of your sessions and also help towards creating your new lifestyle. I have an excellent success
-            rate with all of the clients that have chosen to train with me. Just take a look at my <a
-                    href="#testimonials">testimonials page</a> to see some of the transformations my clients have made.
+
+        <p class="lead">
+            The training plans that Callum will create for you will be structured in order for you to get the most out
+            of your sessions and also help towards creating your new lifestyle.
+            Callum has an excellent success rate with all of the clients that have chosen to train with me. Just take a
+            look at his <a href="#testimonials">testimonials page</a> to see some of the transformations his clients
+            have made.
         </p>
     </div>
     <div class="col-md-5">
