@@ -1,4 +1,6 @@
 branch-defaults:
+  PT-99:
+    environment: trainersite
   master:
     environment: trainersite
 deploy:
@@ -13,6 +15,7 @@ global:
   default_platform: arn:aws:elasticbeanstalk:us-west-2::platform/Tomcat 8 with Java
     8 running on 64bit Amazon Linux/2.6.2
   default_region: us-west-2
+  include_git_submodules: true
   instance_profile: null
   platform_name: null
   platform_version: null
