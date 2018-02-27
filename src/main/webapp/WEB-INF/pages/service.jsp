@@ -11,7 +11,7 @@
                 <p>Callum provides tailor-made personal training sessions to suit each individual's
                     needs. Whether you want to lose a lot of weight, tone up or simply get fit for an upcoming event,
                     Callum can help.</p>
-                <p>Callum also allows his client's to train in pairs for the small price of &pound15pp, this is
+                <p>Callum also allows his client's to train in pairs for the small price of &pound20pp, this is
                     something unique which many trainers don't offer and means you can have fun with a friend whilst
                     getting fit!</p>
             </div>
@@ -28,31 +28,31 @@
         <article class="articleBody">
             <h1 class="priceHeader">30 Minutes Session</h1>
             <div class="pricecontent">
-                <span class="priceBulletin">&pound15.00</span>
+                <span class="priceBulletin">&pound20.00</span>
             </div>
         </article>
         <article class="articleBody">
             <h1 class="priceHeader">60 Minutes Session</h1>
             <div class="pricecontent">
-                <span class="priceBulletin">&pound25.00</span>
+                <span class="priceBulletin">&pound30.00</span>
             </div>
         </article>
         <article class="articleBody">
             <h1 class="priceHeader">60 Minutes Session (Two People)</h1>
             <div class="pricecontent">
-                <span class="priceBulletin">&pound15.00 Each</span>
+                <span class="priceBulletin">&pound20.00 Each</span>
             </div>
         </article>
         <article class="articleBody">
-            <h1 class="priceHeader">Ten 30 Minutes Sessions</h1>
+            <h1 class="priceHeader">Twelve 30 Minutes Sessions</h1>
             <div class="pricecontent">
-                <span class="priceBulletin">&pound135.00</span>
+                <span class="priceBulletin">&pound200.00</span>
             </div>
         </article>
         <article class="articleBody">
-            <h1 class="priceHeader">Ten 60 Minutes Sessions</h1>
+            <h1 class="priceHeader">Twelve 60 Minutes Sessions</h1>
             <div class="pricecontent">
-                <span class="priceBulletin">&pound225.00</span>
+                <span class="priceBulletin">&pound300.00</span>
             </div>
         </article>
     </div>
