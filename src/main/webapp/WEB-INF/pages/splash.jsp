@@ -86,7 +86,7 @@
 <div class="row featurette">
     <div class="col-md-7 homepage-left-border">
         <h2 class="featurette-heading">CG Bootcamp</h2>
-        <p class="lead" style="padding-left: 0">Bootcamp - Monday 6:45pm</p>
+        <p class="lead" style="padding-left: 0">Bootcamp - Tuesday and Wednesday 7pm - 8pm</p>
         <p>CG Fitness provides more than a typical Bootcamp. Callum tracks every individual's progress and gives
             everybody a tailor-made diet plan to help them hit their own fitness goals. The Bootcamp takes place twice a
             week over a 4-6 week period. Everybody will receive a full Bootcamp guide which will help to improve
